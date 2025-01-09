@@ -1,1 +1,2 @@
 # forest_fire_detection_CNN # forest_fire_detection_CNN
+Wildfires is a natural disaster causing irreparable damage to local ecosystem. Computer vision and deep learning in order to solve the problem detecting forest fires. Deep Learning for Forest Fire Detection.  By using UAV & Information Processing System, we can process and analysis images in real time.  Fine-Tuning Technique. Early Detection and Early Rescue. 
